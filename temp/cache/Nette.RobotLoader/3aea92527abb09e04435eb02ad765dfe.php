@@ -2,31 +2,6 @@
 return array (
   0 => 
   array (
-    'App\\Forms\\FormFactory' => 
-    array (
-      'file' => 'C:\\development\\xampp\\htdocs\\app\\forms\\FormFactory.php',
-      'time' => 1575575650,
-    ),
-    'App\\Forms\\SignInFormFactory' => 
-    array (
-      'file' => 'C:\\development\\xampp\\htdocs\\app\\forms\\SignInFormFactory.php',
-      'time' => 1575575650,
-    ),
-    'App\\Forms\\SignUpFormFactory' => 
-    array (
-      'file' => 'C:\\development\\xampp\\htdocs\\app\\forms\\SignUpFormFactory.php',
-      'time' => 1575575650,
-    ),
-    'App\\Model\\UserManager' => 
-    array (
-      'file' => 'C:\\development\\xampp\\htdocs\\app\\model\\UserManager.php',
-      'time' => 1575575650,
-    ),
-    'App\\Model\\DuplicateNameException' => 
-    array (
-      'file' => 'C:\\development\\xampp\\htdocs\\app\\model\\UserManager.php',
-      'time' => 1575575650,
-    ),
     'App\\Presenters\\BasePresenter' => 
     array (
       'file' => 'C:\\development\\xampp\\htdocs\\app\\presenters\\BasePresenter.php',
@@ -45,12 +20,7 @@ return array (
     'App\\Presenters\\HomepagePresenter' => 
     array (
       'file' => 'C:\\development\\xampp\\htdocs\\app\\presenters\\HomepagePresenter.php',
-      'time' => 1575575650,
-    ),
-    'App\\Presenters\\SignPresenter' => 
-    array (
-      'file' => 'C:\\development\\xampp\\htdocs\\app\\presenters\\SignPresenter.php',
-      'time' => 1575575650,
+      'time' => 1575577030,
     ),
     'App\\RouterFactory' => 
     array (
@@ -58,5 +28,8 @@ return array (
       'time' => 1575575651,
     ),
   ),
-  1 => NULL,
+  1 => 
+  array (
+    'Nette\\Environment' => 1,
+  ),
 );
