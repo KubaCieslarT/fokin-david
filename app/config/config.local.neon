@@ -1,1 +1,8 @@
 parameters:
+	svn:
+		url: ""
+		username: ""
+		password: ""
+		file1_path: ""
+		file1_path: ""
+		file1_path: ""
